@@ -1,0 +1,2 @@
+# nlp-sentiment-analysis
+This project aims to investigate the sentiment and test various architectures for comprehending sentiment polarity in London hotel dataset. We shall consider a manually labelled dataset available at https://www.kaggle.com/PromptCloudHQ/reviews-of-londonbased-hotels . The dataset contains review of the top 10 most expensive and least expensive London based hotels with hotel locations, reviews and user’s rating. We shall focus on the ambiguity that may raise among the users. 
