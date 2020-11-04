@@ -1,0 +1,34 @@
+Report tasks:
+1. Introduction -- Eetu
+2. Introduction continues -- Eetu
+3. Eetu
+4. Eetu
+5. flocharts and explanation -- Mitja
+6. Mitja
+7. Eetu
+8. Mitja
+9. Mitja
+10. Mitja
+
+
+Organize your submission as follows:
+1)
+- Write down your Group Number
+- Group Leader
+- Name of other group members
+- Title
+- Github Link for your programs (if not Github, you should provide an alternative way to locate and check your programs used in the
+project). The link should also include any database / dataset that you collected or used.
+2) Introduction: Introduce your subject and show evidence that you have surveyed any related literature to provide a sound
+motivation ground and highlight what will be the novelty as compared to other work you surveyed.
+3) Problem description as you can understand it from the project specification provided to you
+4) Dataset description (s)
+5) General methodology that outlines the overall methodology and steps taken to solve the problem
+6) Detailed methodology
+(have as much as subsections as needed in order to handle to various specifications of your project )
+7) results and discussions
+Bring your results here.. Use a combination of table, curve or both to highlight your findings.. and discuss your results
+8) Conclusion and Perspectives
+9) References
+10) Appendix
+
